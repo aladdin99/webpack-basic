@@ -1,0 +1,12 @@
+.dom1 {
+  background: pink;
+  .dom3 {
+    color: yellow;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid yellow;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+}

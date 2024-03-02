@@ -1,0 +1,6 @@
+export ()=>{
+    return {
+        mode: "development",
+      };
+      
+}

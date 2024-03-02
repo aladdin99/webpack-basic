@@ -1,0 +1,30 @@
+{
+  "name": "webpack_pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "build": "webpack",
+    "dev": "webpack server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "css-loader": "^6.10.0",
+    "file-loader": "^6.2.0",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
+    "postcss": "^8.4.35",
+    "postcss-cli": "^11.0.0",
+    "postcss-loader": "^8.1.1",
+    "postcss-preset-env": "^9.4.0",
+    "sass": "^1.71.1",
+    "sass-loader": "^14.1.1",
+    "style-loader": "^3.3.4",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.2"
+  }
+}

@@ -1,0 +1,7 @@
+.dom1 {
+  color: "#fff";
+  display: flex;
+  width: 100%;
+  background-color: bisque;
+  box-sizing: border-box;
+}
