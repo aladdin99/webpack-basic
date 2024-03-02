@@ -27,6 +27,7 @@
 - style-loader
 - css-loader
 - less-loader
+- postcss-loader
 - scss-loader
 - file-loader
 - url-loader
