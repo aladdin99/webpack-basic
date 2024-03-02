@@ -1,6 +1,0 @@
-export ()=>{
-    return {
-        mode: "development",
-      };
-      
-}
